@@ -18,8 +18,6 @@ This repository accompanies a systematic review of emotion and empathy recogniti
 
 ## PRISMA Flow
 
-![PRISMA Flow Diagram](PRISMA_FLOW_DIAGRAM.png)
-
 | Stage | Count |
 |-------|-------|
 | Identified | 4,133 |
